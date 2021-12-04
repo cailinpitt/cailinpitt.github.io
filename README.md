@@ -1,6 +1,8 @@
 # cailinpitt.github.io
 Github Pages
 
-A simple webpage I am using to learn Bootstrap. 
+## /
+Homepage I made early in college
 
-Currently under construction, so cut me some slack!
+## /links
+Links to other websites
