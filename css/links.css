@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(246, 202, 220);
+}
+
+.links-container {
+  margin-top: 24px;
+}
+
+.group {
+  background-color: rgb(246, 202, 220);
+}
+
+.link {
+  display: inline-flex;
+  align-items: center;
+}
+
+.link-text {
+  margin-left: 24px;
+}
